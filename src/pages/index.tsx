@@ -32,12 +32,12 @@ export default function Page() {
 
       <main className="content">
         <Hero
-          title="Get Started with Headless"
+          title="Get Started with (wait for it) Headlesssssssss...."
           buttonText="Developer Docs"
           buttonURL="https://faustjs.org"
           button2Text="Headless on GitHub"
           button2URL="https://github.com/wpengine/faustjs"
-          bgImage="/images/headless_hero_background.jpg"
+          bgImage="/images/smash-3.jpeg"
           id={styles.home_hero}
         >
           <p>
